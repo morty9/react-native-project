@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Arts",
+        "icon": "cloud",
+        "color": "#FADD77",
+        "section": "arts"
+    },
+    {
+        "title": "Sciences",
+        "icon": "flask",
+        "color": "#264775",
+        "section": "science"
+    },
+    {
+        "title": "Automobiles",
+        "icon": "car",
+        "color": "#582F67",
+        "section": "automobiles"
+    },
+    {
+        "title": "Books",
+        "icon": "book",
+        "color": "#551213",
+        "section": "books"
+    },
+    {
+        "title": "Business",
+        "icon": "briefcase",
+        "color": "#A45E2D",
+        "section": "business"
+    },
+    {
+        "title": "Fashion",
+        "icon": "cloud",
+        "color": "#B53A6B",
+        "section": "fashion"
+    },
+    {
+        "title": "Food",
+        "icon": "cloud",
+        "color": "#EAA944",
+        "section": "food"
+    },
+    {
+        "title": "Health",
+        "icon": "heartbeat",
+        "color": "#D34141",
+        "section": "health"
+    }
+]
